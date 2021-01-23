@@ -6,7 +6,7 @@ about ini parse, please see https://github.com/gookit/ini/parser
 package ini
 
 import (
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 	"github.com/gookit/ini/v2/parser"
 )
 

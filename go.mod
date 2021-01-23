@@ -1,4 +1,4 @@
-module github.com/wempy-id/cfg/v2
+module github.com/wempy-id/cfg
 
 go 1.12
 

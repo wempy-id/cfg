@@ -8,7 +8,7 @@ package hcl
 import (
 	"errors"
 
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 	"github.com/hashicorp/hcl"
 )
 

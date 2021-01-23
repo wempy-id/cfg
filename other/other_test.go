@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 	"github.com/stretchr/testify/assert"
 )
 

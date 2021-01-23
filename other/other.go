@@ -4,8 +4,8 @@ Package other is an example of a custom driver
 package other
 
 import (
-	"github.com/wempy-id/cfg/v2"
-	"github.com/wempy-id/cfg/v2/ini"
+	"github.com/wempy-id/cfg"
+	"github.com/wempy-id/cfg/ini"
 )
 
 const driverName = "other"

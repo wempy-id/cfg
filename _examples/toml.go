@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/wempy-id/cfg/v2"
-	"github.com/wempy-id/cfg/v2/toml"
+	"github.com/wempy-id/cfg"
+	"github.com/wempy-id/cfg/toml"
 )
 
 // go run ./examples/toml.go

@@ -8,7 +8,7 @@ package yaml
 
 // see https://godoc.org/gopkg.in/yaml.v2
 import (
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 	"gopkg.in/yaml.v2"
 )
 

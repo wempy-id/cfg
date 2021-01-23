@@ -2,7 +2,7 @@
 package json
 
 import (
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 	"github.com/gookit/goutil/jsonutil"
 	"github.com/json-iterator/go"
 )

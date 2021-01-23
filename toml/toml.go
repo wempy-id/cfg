@@ -11,7 +11,7 @@ import (
 	"bytes"
 
 	"github.com/BurntSushi/toml"
-	"github.com/wempy-id/cfg/v2"
+	"github.com/wempy-id/cfg"
 )
 
 // Decoder the toml content decoder

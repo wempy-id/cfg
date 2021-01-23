@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/wempy-id/cfg/v2"
-	"github.com/wempy-id/cfg/v2/ini"
+	"github.com/wempy-id/cfg"
+	"github.com/wempy-id/cfg/ini"
 )
 
 // go run ./examples/ini.go
