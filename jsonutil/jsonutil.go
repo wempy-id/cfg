@@ -1,4 +1,4 @@
-package json
+package jsonutil
 
 import (
 	"bytes"
@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/scanner"
 
-	"github.com/json-iterator/go"
+	jsoniter "github.com/json-iterator/go"
 )
 
 var parser = jsoniter.ConfigCompatibleWithStandardLibrary

@@ -1,10 +1,9 @@
-// Package json use the https://github.com/json-iterator/go for parse json
 package json
 
 import (
-	"github.com/wempy-id/cfg"
-	"github.com/gookit/goutil/jsonutil"
-	"github.com/json-iterator/go"
+	jsoniter "github.com/json-iterator/go"
+	config "github.com/wempy-id/cfg"
+	jsonutil "github.com/wempy-id/cfg/jsonutil"
 )
 
 var parser = jsoniter.ConfigCompatibleWithStandardLibrary

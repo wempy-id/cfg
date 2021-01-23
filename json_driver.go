@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 
 	"github.com/gookit/goutil/jsonutil"
+	"github.com/wempy-id/cfg/json"
 )
 
 // JSONAllowComments support write comments on json file.
