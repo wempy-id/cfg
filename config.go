@@ -1,10 +1,6 @@
 /*
 Package config is a go config management implement. support YAML,TOML,JSON,INI,HCL format.
 
-Source code and other details for the project are available at GitHub:
-
-	https://github.com/gookit/config
-
 JSON format content example:
 
 	{

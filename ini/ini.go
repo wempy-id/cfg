@@ -1,13 +1,11 @@
 /*
 Package ini is driver use INI format content as config source
-
-about ini parse, please see https://github.com/gookit/ini/parser
 */
 package ini
 
 import (
-	"github.com/wempy-id/cfg"
-	"github.com/gookit/ini/v2/parser"
+	config "github.com/wempy-id/cfg"
+	"github.com/wempy-id/cfg/parser"
 )
 
 // Decoder the ini content decoder
